@@ -8,12 +8,11 @@ Universal file converter: JSON, YAML, TOML, CSV, ENV, Markdown, HTML.
 - Supports both CLI and API usage.
 - Lightweight and easy to use.
 
-## Install (local)
+## Install (global)
 
 ```bash
-npm install uni-convert
+npm i @isaac_talb/uni-convert
 ```
-
 ## Usage
 
 ### CLI (npx)
