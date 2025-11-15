@@ -1,0 +1,11 @@
+MIT License
+
+---
+
+## Next steps / notes
+
+- Run `npm install` to install dependencies.
+- Run `npm run build` to compile TypeScript to `dist/`.
+- When publishing, ensure all tests pass by running `npm test`.
+- Update the version number in `package.json` before publishing.
+- Publish the package using `npm publish`.
